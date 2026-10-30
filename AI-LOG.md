@@ -24,3 +24,11 @@ explain, lose points (course syllabus, "Using AI").
   the classes; I removed it, because the position already names the class.
 - **Checked:** compared the median of two classes with dplyr::summarise(); 2seater and SUV match the plot.
 -->
+
+## 2026-10-30 · card A, prompts 1 and 2
+
+- **Tool:** Learnstats AI (Gemini), from the course page
+- **Prompt:** "Using the mpg data in plotnine: horizontal box plots of hwy, one per class, ordered by the median"
+- **Accepted:** the box plots, the median order and the horizontal layout.
+- **Rejected or corrected:** Prompt 1 gave the classes in alphabetical order; Prompt 2 asked for the median order.
+- **Checked:** the medians of compact (27) and pickup (17) against the boxes.

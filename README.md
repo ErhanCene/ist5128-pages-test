@@ -1,4 +1,4 @@
-# <Project title>
+# Which car classes are cheapest to run on the highway?
 
 IST5128 · Project 1 · <your name(s)>
 
